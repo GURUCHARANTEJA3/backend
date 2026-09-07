@@ -127,4 +127,4 @@ MAILERS = {
     },
 }
 
-Cors_allowed_origins=['http://localhost:5173/','https://frontend-ivory-five-dkfcy6pfdu.vercel.app/']
+Cors_allowed_origins=['http://localhost:5173/','https://frontend-8k1fu6w03-mvp13678.vercel.app/']
